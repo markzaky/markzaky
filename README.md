@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markzaky
-- 👀 I’m interested in Dev Ops
+- 👀 I’m interested in Full stack web development and Dev Ops
 - 🌱 I’m currently learning Python,Next
 - 💞️ I’m looking to collaborate on Nextjs
 - 📫 Reach me on twitter @mark_mwenesi
